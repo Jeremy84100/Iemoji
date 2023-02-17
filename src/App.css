@@ -1,0 +1,12 @@
+@import '../components/hero/hero.css';
+@import '../components/navbar/navbar.css';
+@import '../components/Searchbar/searchbar.css';
+
+body {
+    background-color: #242526;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+

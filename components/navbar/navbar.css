@@ -1,0 +1,15 @@
+.navbar {
+    background-color: rgb(24,25,26);
+}
+
+.navbar h2 {
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin: 0;
+    margin-left: 20rem;
+}
+
+.navbar a {
+    color: gainsboro;
+    text-decoration: none;  
+}
